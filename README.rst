@@ -1,50 +1,42 @@
-.. resume for Wes Turner
+.. header::
 
-============
-Wes Turner
-============
-Resume
-=======
+   wes.turner@gmail.com
 
-* +1.402.415.7605
-* +1.402.522.6937
-* `<wes.turner@gmail.com>`_
-* http://www.linkedin.com/in/westurner
-* https://bitbucket.org/westurner
-* https://github.com/westurner
+Resume Cover Letter
+++++++++++++++++++++
 
-
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-
-
-
-
-Cover Letter
-=================
-
-* Web Developer by trade
+* Full Stack Web Developer
 * Computer science background with an MIS education
 * Entrepreneurial spirit with love for technical minimalism
 * Desire to work as part of a team of bright, motivated individuals
 * Interested in contributing to Applications, Systems, and Portfolio Development
 * Interests in web application security, distributed systems, and interface design
-* Python has been my language of choice for five years now
 * Have respect for the dedication and sacrifices needed to achieve mastery
 * Experience with smaller cross-functional teams
 * Enjoy agile, iterative, continuous integration
 * Appreciation for meaningful abstractions
 * Always learning
+* 10+ years Linux experience
+* 5+ years Python experience
+
+Wes Turner
+============
+
+* http://www.linkedin.com/in/westurner
+* https://resume.wrd.nu/portfolio
+* https://bitbucket.org/westurner
+* https://github.com/westurner
+* `<wes.turner@gmail.com>`_
+* `<tel:+1.402.522.6937>`_
 
 
-.. computer science background with an MIS major
+.. raw:: pdf
 
-   http://bigocheatsheet.com
-   Gang of Four
+   PageBreak oneColumn
 
 
+Resume
+++++++++++
 
 
 Employment
@@ -53,8 +45,11 @@ Employment
 2009-2010: Programmer Analyst I @ UNMC
 ----------------------------------------
 University of Nebraska Medical Center (UNMC)
+
 Knowledge Engineering Group (KEG)
+
 Section of Cardiology
+
 Feb 2009 - Oct 2010
 
 * Introduced XP, Scrum, Trac, Agilo, Mercurial, TDD, Nose, and Hudson
@@ -105,6 +100,8 @@ Peter Kiewit Institute (PKI)
 
 January 2007 - March 2008
 
+Python Web Developer
+
 * Scratched, forked, and extended another Content Management System
 * Collaborated with Graphic Designer
 * Designed and Developed Events Calendar app
@@ -119,7 +116,7 @@ January 2007 - March 2008
 * Javascript: JQuery, Dojo
 * MySQL, PostgreSQL
 
-Systems Development
+Systems Infrastructure Development
 
 * Intrapreneured "NUCIA Web Services" web systems acronym moniker
 * Partitioned and virtualized a series of intranet applications
@@ -140,7 +137,7 @@ Education
 --------------------
 University of Nebraska-Omaha
 
-BS Management Information Systems
+BS Management Information Systems (MIS)
 
 * MISSO: Management Information Systems Student Organization
 * AIS: Association for Information Systems Student Chapters Founding Chapter
@@ -176,13 +173,13 @@ Projects
 2007: Presense
 ------------------------
 
-Social Media Aggregation Concept/Gaussian Chart Generator
+Social Media Aggregation Concept & Gaussian Chart Generator
 
-Graphical User Interface Design w/ Dr. Sidney Davis
+UNO: Graphical User Interface Design w/ Dr. Sidney Davis
 
 Team of three
 
-Responsible for concept, design, coding, and presentation lead
+Responsible for concept, design, coding; presentation lead
 
 * Google Charts API
 * Prior to Task Queues
@@ -197,14 +194,21 @@ Responsible for concept, design, coding, and presentation lead
 https://bitbucket.org/westurner/eaglefin
 
 Insurance Quote Form
-Distributed Systems
+
+UNO: Distributed Systems
+
 Team of four
-Responsible for design, coding, and presentation lead
+
+Responsible for design, coding; presentation lead
 
 * Python, Javascript, CSS, XHTML
 * Django, 960.gs
 * Google AppEngine: Python
 
+
+.. raw:: pdf
+
+   PageBreak oneColumn
 
 2009: Nebraska Humane Society Adoption Listings
 ------------------------------------------------
@@ -212,10 +216,13 @@ https://nhs-adoptions.appspot.com
 
 https://bitbucket.org/westurner/nhs-social-web
 
-Adoption Listings Crawler
-Special Topics Consulting
+Adoption Listings Crawler & Website Prototype
+
+UNO: Special Topics Consulting
+
 Merged teams of six to ten
-Responsible for concept, design, coding, and presentation lead
+
+Responsible for concept, design, coding; presentation lead
 
 * Task Queues
 * JSON-P API
@@ -232,11 +239,12 @@ http://code.google.com/p/wbcms
 
 https://bitbucket.org/westurner/wbcms
 
-
 Django App for Listing Available Courses and Scheduling Course Requests
-Systems Analysis & Design
-Systems Design & Implementation
+
+UNO: Systems Analysis & Design / Systems Design & Implmentation
+
 Team of four
+
 Responsible for design, coding, and presentation
 
 * Python, Javascript, CSS, XHTML
@@ -270,10 +278,10 @@ Responsible for design, coding, and presentation
 -------------------------
 http://code.google.com/p/helphaitiproject
 
-WordPress Instance for Haiti Earthquake Awareness
-Managing in the Digital World
-Three geo-distributed teams of four to five
-Responsible for project management
+* WordPress Instance for Haiti Earthquake Awareness
+* Managing in the Digital World
+* Three geo-distributed teams of four to five
+* Responsible for project management
 
 * Something like Theory Y
 * User Stories as Tickets
@@ -317,18 +325,23 @@ https://github.com/westurner/dotvim
 * Configuration set for Vim
 
 
+.. raw:: pdf
+
+   PageBreak oneColumn
+
 Self Directed Learning
 -----------------------
 http://westurner.github.io/self-directed-learning
 
 * Autodidactism
-* Cave-diving
 * Open Tools, Data, and Analysis for STEM Learning ("STEM Labs")
 * Science, Technology, Engineering, and Mathematics
 
 
 Pycd10api
 ----------
+https://github.com/westurner/pycd10api
+
 * REST API wrapper for ICD 10 CM and PCS XML files (lxml)
 * Pyramid, Cornice
 
@@ -346,17 +359,10 @@ http://www.reddit.com/user/westurner
 Contact Information
 ====================
 
-wes.turner@gmail.com
-1.402.415.7605
-http://www.linkedin.com/in/westurner
-https://bitbucket.org/westurner
-https://github.com/westurner
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+* http://www.linkedin.com/in/westurner
+* https://resume.wrd.nu/portfolio
+* https://bitbucket.org/westurner
+* https://github.com/westurner
+* `<wes.turner@gmail.com>`_
+* `<tel:+1.402.522.6937>`_
 
