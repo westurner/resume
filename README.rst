@@ -2,8 +2,19 @@
 
    wes.turner@gmail.com
 
-Resume Cover Letter
-++++++++++++++++++++
+Wes Turner
+============
+
+* http://www.linkedin.com/in/westurner
+* https://resume.wrd.nu/portfolio
+* https://bitbucket.org/westurner
+* https://github.com/westurner
+* `<wes.turner@gmail.com>`_
+* `<tel:+1.402.522.6937>`_
+
+
+Cover Letter
+-------------------
 
 * Full Stack Web Developer
 * Computer science background with an MIS education
@@ -19,24 +30,10 @@ Resume Cover Letter
 * 10+ years Linux experience
 * 5+ years Python experience
 
-Wes Turner
-============
-
-* http://www.linkedin.com/in/westurner
-* https://resume.wrd.nu/portfolio
-* https://bitbucket.org/westurner
-* https://github.com/westurner
-* `<wes.turner@gmail.com>`_
-* `<tel:+1.402.522.6937>`_
-
 
 .. raw:: pdf
 
    PageBreak oneColumn
-
-
-Resume
-++++++++++
 
 
 Employment
